@@ -16,13 +16,8 @@ This is inspired by Meth-Meth-Method's [ufo game] (https://github.com/stefaniava
 * Space: Restart
 
 ## Current state:
-![Alt text](./resources/Image Readme/game.PNG "Game start")
+![Alt text](./gioco.gif "Ufo game Start")
 
-
-![Alt text](./resources/Image Readme/pause.PNG "Pause state")
-
-
-![Alt text](./resources/Image Readme/gameover.PNG "GameOver state")
 
 ## Dependencies	
 * pygame	
