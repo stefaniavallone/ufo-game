@@ -105,7 +105,7 @@ class Game:
         self.screen.blit(self.background, (0, 0))
         self.screen.blit(self.ufo.image, (self.ufo.x, self.ufo.y))
         font_point = pygame.font.SysFont('Comic Sans MS', 20, bold=True)
-        self.screen.blit(font_point.render("Points " + str(self.points), 1, (255, 0, 0)), (900, 5))
+        self.screen.blit(font_point.render("Points " + str(self.points), 1, (255, 0, 0)), (870, 5))
         for heart in self.heart_list:
             self.screen.blit(heart.image, (heart.x, heart.y))
         self.ufo.ufo_position()

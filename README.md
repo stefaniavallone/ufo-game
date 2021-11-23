@@ -16,7 +16,7 @@ This is inspired by Meth-Meth-Method's [ufo game] (https://github.com/stefaniava
 * Space: Restart
 
 ## Current state:
-![Alt text](./gioco.gif "Ufo game Start")
+![Alt text](./ufogame.gif "Ufo game Start")
 
 
 ## Dependencies	
